@@ -1,13 +1,13 @@
-hashtag: "#yourcoursehashtag"
+hashtag: "#rocket
 starts: "2017-04-01T22:47:31-07:00"
 ends: "2018-09-20T22:47:31-07:00"
 accounts: 
-  - <yourcoursetwitteraccount>
+  - edjenkins91
 langs:
   - en
 about: about.md
 info: info.md
-slug: talkingpictures
+slug: rocket
 classes:
   -
     dir: class1
@@ -16,12 +16,6 @@ classes:
       -
         url: intro.md
         slug: intro
-      -
-        url: fourcorners.md
-        slug: fourcorners
-      -
-        url: extra-pre-reading.md
-        slug: prereading
       -
         url: prework.md
         slug: prework
@@ -32,22 +26,10 @@ classes:
           -
             release_at: "2018-04-02T10:57:37+01:00"
             leadhub: true
-            hub_id: "ams"
+            hub_id: "ncl"
       -
         url: deepdive.md
         slug: deepdive
-      -
-        url: extended.md
-        slug: extended
-      -
-        url: postwork.md
-        slug: postwork
-      -
-        url: webinar.md
-        slug: webinar
-        schedule:
-          -
-            release_at: "2018-04-08T22:57:37-07:00"
       -
         url: whatnext.md
         slug: whatnext
