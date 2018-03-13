@@ -1,0 +1,34 @@
+version: 2
+general:
+  branches:
+    only:
+     - master
+
+notify:
+  webhooks:
+    - url: https://api.connectedacademy.io/clearcache/<replacewithyourdomain>
+
+jobs:
+  build:
+    docker: 
+      - image: node:7.4.0
+    working_directory: ~/connectedacademy
+    steps:
+      - checkout
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+      - restore_cache:
+          key: elevator-cache-{{ checksum "ELEVATOR_VERSION" }}
+      - run: npm install
+      - save_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
+      - run: npm run generate
+      - add_ssh_keys
+      - run: chmod +x ./build.sh
+      - run: ./build.sh
+      - save_cache:
+          key: elevator-cache-{{ checksum "ELEVATOR_VERSION" }}
+          paths:
+            - /repos/elevator

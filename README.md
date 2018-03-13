@@ -1,0 +1,1 @@
+Structure and content for a new Connected Academy course.

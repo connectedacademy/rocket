@@ -1,0 +1,59 @@
+prose:
+  siteurl: <replacewithyourdomain>
+  rooturl: course
+  media: 'course/content/media'
+  relativeLinks: <replacewithyourdomain>/links.jsonp
+  metadata:
+    'course/content':
+      - name: title
+        field:
+          element: text
+          label: title
+      - name: content_type
+        field:
+          element: select
+          label: Content Type
+          options:
+            - title
+            - pre
+            - class
+            - postclass
+            - webinar
+            - postwebinar
+            - question
+            - nextclass
+      - name: description
+        field:
+          element: textarea
+          label: Description of Content
+          placeholder: Segment description
+      - name: optional
+        field:
+          element: checkbox
+          label: Mark content as optional (not core for course)
+          value: false
+      - name: video
+        field:
+          element: text
+          label: YouTube ID (optional)
+      - name: transcript
+        field:
+          element: text
+          label: Transcript File (optional, json)
+      - name: prompts
+        field:
+          element: text
+          label: Prompts File (optional, json)
+      - name: duration
+        field:
+          element: text
+          label: Video Duration in Seconds (optional)
+      - name: "expectsubmission"
+        field:
+          element: checkbox
+          label: This content expects the user to submit something
+          value: false
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"

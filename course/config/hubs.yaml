@@ -1,0 +1,8 @@
+-
+  id: "ams"
+  name: "Amsterdam"
+  timezone: "+01:00"
+  service: "twitter"
+  account: "@tomb"
+  hashtag: "#ams1"
+  lang: "en"

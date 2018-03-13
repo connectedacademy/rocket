@@ -1,0 +1,13 @@
+{
+    "denominator":["(<img.*?data-4c.*?>)"],
+    "capture": [
+      {
+        "pattern": "(<script.*src.*\/dist\/4c\\.js.*?<\/script>)"
+      },
+      {
+        "ident":"data-4c=[\"'](.*)[\"']",
+        "pattern":"(<script.*?data-4c-meta=[\"']{{ident}}[\"'][\\s\\S]*?<\/script>)"
+      }
+    ],
+    "preview": "<img.+src\\=[\"'](.*?)[\"'].*>"
+}
