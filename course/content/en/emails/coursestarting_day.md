@@ -6,7 +6,7 @@ title: Course Starting Soon
 ---
 Hi {{user}}!
 
-The Connected Academy course **Talking Pictures** is starting tomorrow, so make sure to visit and get involved!
+The Connected Academy course **Rocket** is starting tomorrow, so make sure to visit and get involved!
 
 https://rocket.connectedacademy.io
 
