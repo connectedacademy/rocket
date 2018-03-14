@@ -3,14 +3,11 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Elevator branch
-echo "ELEVATOR_BRANCH"
-echo "$ELEVATOR_BRANCH"
-echo ELEVATOR_BRANCH
-
-if [ -e ELEVATOR_BRANCH ]
+echo $E_BRANCH
+if [ -e $ELEVATOR_BRANCH ]
 then
     echo "Non master branch found"
-    GIT_REF="cat ELEVATOR_BRANCH"
+    GIT_REF=$ELEVATOR_BRANCH
 else
     echo "Auto Update UI Mode"
     GIT_REF="master"

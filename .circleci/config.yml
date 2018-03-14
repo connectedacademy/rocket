@@ -15,6 +15,7 @@ jobs:
     working_directory: ~/connectedacademy
     environment:
       ELEVATOR_BRANCH: origin/rocket
+      E_BRANCH: origin/rocket123
     steps:
       - checkout
       - restore_cache:
