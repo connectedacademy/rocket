@@ -6,7 +6,7 @@ title: Welcome to Connected Academy
 ---
 Hi {{user}}!
 
-**Welcome to the Connected Academy course, Talking Pictures.**
+**Welcome to the Connected Academy course, Rocket.**
 
 We will keep you up-to-date with the occasional email, but for now we encourage you to read the preparatory materials and submit your first Four Corners image.
 

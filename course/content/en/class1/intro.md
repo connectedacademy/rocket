@@ -7,7 +7,7 @@ description: >-
   When everyone has the means to make and publish photographic images, what
   makes some stories more believable than others? What makes some photographers
   more believable than others? Welcome to The World Press Photo Foundation's
-  **Talking Pictures**, a new kind of photography course where photographers,
+  **Rocket**, a new kind of photography course where photographers,
   their subjects and audiences come together and invite you to join the
   conversation. This week sees Lebanese photographer Dalia Khamissy re-united
   with some of the subjects from her long-term project on the families of people

@@ -6,7 +6,7 @@ title: Connected Academy - Get Ready for Learning
 ---
 Hi {{user}}!
 
-The Connected Academy **Talking Pictures** course is starting in a few days, have a look at some of the preparatory content to get started.
+The Connected Academy **Rocket** course is starting in a few days, have a look at some of the preparatory content to get started.
 
 https://rocket.connectedacademy.io
 
