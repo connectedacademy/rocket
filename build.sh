@@ -2,17 +2,15 @@
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-# UI Version Lock
-# if [ -e ELEVATOR_VERSION ]
-# then
-#     echo "Version Lock Found"
-#     GIT_REF=`cat ELEVATOR_VERSION`
-# else
-#     echo "Auto Update UI Mode"
-#     GIT_REF="master"
-# fi
-
-GIT_REF="origin/rocket"
+# Elevator branch
+if [ -e ELEVATOR_BRANCH ]
+then
+    echo "Non master branch found"
+    GIT_REF="cat ELEVATOR_BRANCH"
+else
+    echo "Auto Update UI Mode"
+    GIT_REF="master"
+fi
 
 mkdir /repos
 cd /repos
@@ -27,7 +25,7 @@ echo "Switched to commit @ $GIT_REF"
 cd $DIR
 if [ -z `find branding -type f` ]
 then
-    echo "Using Stock colors"
+    echo "Using Stock brand"
 else
     echo "Using Brand customisation"
     cp -R ~/connectedacademy/branding/stylus/* /repos/elevator/src/assets/stylus/buildvariant/
