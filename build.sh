@@ -11,17 +11,15 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 #     echo "Auto Update UI Mode"
 #     GIT_REF="master"
 # fi
-GIT_REF="b95d159f639988f26373d47e5a35aeed415400af"
 
-
-
-
+GIT_REF="origin/rocket"
 
 mkdir /repos
 cd /repos
 git clone git@github.com:connectedacademy/elevator.git
 echo "Cloned Elevator UI"
 cd elevator
+git fetch origin
 git reset --hard ${GIT_REF}
 echo "Switched to commit @ $GIT_REF"
 
