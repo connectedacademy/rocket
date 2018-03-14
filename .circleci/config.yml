@@ -25,5 +25,4 @@ jobs:
       - run: npm run generate
       - add_ssh_keys
       - run: chmod +x ./build.sh
-      - run: echo $ELEVATOR_BRANCH
-      - run: ./build.sh $ELEVATOR_BRANCH
+      - run: ./build.sh
