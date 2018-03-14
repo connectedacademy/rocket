@@ -13,8 +13,6 @@ jobs:
     docker: 
       - image: node:7.4.0
     working_directory: ~/connectedacademy
-    environment:
-      ELEVATOR_BRANCH: origin/rocket
     steps:
       - checkout
       - restore_cache:
@@ -27,5 +25,5 @@ jobs:
       - run: npm run generate
       - add_ssh_keys
       - run: chmod +x ./build.sh
-      - run: ./build.sh
-      - run: echo $PROJECT_NAME
+      - run: echo $ELEVATOR_BRANCH
+      - run: ./build.sh $ELEVATOR_BRANCH

@@ -3,6 +3,8 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Elevator branch
+echo $ELEVATOR_BRANCH
+echo $1
 if [ $ELEVATOR_BRANCH ]
 then
     echo "$ELEVATOR_BRANCH branch found"
