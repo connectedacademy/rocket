@@ -8,7 +8,7 @@ Hi {{user}}!
 
 Now that that you have taken part in the live class you can take your time to explore the content and questions raised. Visit the *Deep Dive* section to explore extended interviews and additional content.
 
-https://<replacewithyourdomain>
+https://rocket.connectedacademy.io
 
 Good reading,
 

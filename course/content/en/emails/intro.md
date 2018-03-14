@@ -10,7 +10,7 @@ Hi {{user}}!
 
 We will keep you up-to-date with the occasional email, but for now we encourage you to read the preparatory materials and submit your first Four Corners image.
 
-https://<replacewithyourdomain>
+https://rocket.connectedacademy.io
 
 Stay tuned for more information.
 

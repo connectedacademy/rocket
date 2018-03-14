@@ -12,7 +12,7 @@ Although you can listen to it anytime, we find the best experience is doing it a
 
 As you listen and read the transcript, make your notes as you go, and keep an eye out for interesting things others are saying.
 
-https://<replacewithyourdomain>
+https://rocket.connectedacademy.io
 
 Happy listening!
 

@@ -8,7 +8,7 @@ Hi {{user}}!
 
 The Connected Academy **Talking Pictures** course is starting in a few days, have a look at some of the preparatory content to get started.
 
-https://<replacewithyourdomain>
+https://rocket.connectedacademy.io
 
 See you soon!
 

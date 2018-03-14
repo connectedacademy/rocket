@@ -8,7 +8,7 @@ Hi {{user}}!
 
 The Connected Academy **Talking Pictures** webinar is starting soon. This live broadcast with Q+A gets you direct access to the people at the center of this weeks content.
 
-https://<replacewithyourdomain>
+https://rocket.connectedacademy.io
 
 Bring your questions!
 

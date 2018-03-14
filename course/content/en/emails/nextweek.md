@@ -9,7 +9,7 @@ Hi {{user}}!
 
 This week's work on Connected Academy is now complete. Have a rest and come back refreshed, looking at the preparatory material for next week.
 
-https://<replacewithyourdomain>
+https://rocket.connectedacademy.io
 
 See you soon!
 

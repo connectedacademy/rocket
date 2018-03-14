@@ -8,7 +8,7 @@ Hi {{user}}!
 
 There is a new piece of feedback in a discussion you are having in Connected Academy.
 
-Visit http://<replacewithyourdomain>/#/feedback/browse/{{class}}/{{content}}/{{id}} to continue the conversation.
+Visit http://rocket.connectedacademy.io/#/feedback/browse/{{class}}/{{content}}/{{id}} to continue the conversation.
 
 Yours,
 

@@ -1,5 +1,5 @@
 {
-  "name": "<replacewithyourdomain>",
+  "name": "rocket.connectedacademy.io",
   "version": "1.0.0",
   "description": "A Connected Academy Course",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/connectedacademy/<replacewithyourdomain>.git"
+    "url": "git+https://github.com/connectedacademy/rocket.connectedacademy.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/connectedacademy/<replacewithyourdomain>/issues"
+    "url": "https://github.com/connectedacademy/rocket.connectedacademy.io/issues"
   },
-  "homepage": "https://github.com/connectedacademy/<replacewithyourdomain>#readme",
+  "homepage": "https://github.com/connectedacademy/rocket.connectedacademy.io#readme",
   "dependencies": {
     "js-yaml": "^3.8.3",
     "klaw-sync":"2.1.0",

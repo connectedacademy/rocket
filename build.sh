@@ -3,14 +3,19 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # UI Version Lock
-if [ -e ELEVATOR_VERSION ]
-then
-    echo "Version Lock Found"
-    GIT_REF=`cat ELEVATOR_VERSION`
-else
-    echo "Auto Update UI Mode"
-    GIT_REF="master"
-fi
+# if [ -e ELEVATOR_VERSION ]
+# then
+#     echo "Version Lock Found"
+#     GIT_REF=`cat ELEVATOR_VERSION`
+# else
+#     echo "Auto Update UI Mode"
+#     GIT_REF="master"
+# fi
+GIT_REF="master"
+
+
+
+
 
 mkdir /repos
 cd /repos
