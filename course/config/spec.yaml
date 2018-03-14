@@ -10,26 +10,14 @@ info: info.md
 slug: rocket
 classes:
   -
-    dir: class1
+    dir: evidence
     slug: evidence
     content:
       -
-        url: intro.md
-        slug: intro
-      -
-        url: prework.md
-        slug: prework
-      -
         url: class.md
         slug: liveclass
-        schedule:
-          -
-            release_at: "2018-04-02T10:57:37+01:00"
-            leadhub: true
-            hub_id: "ncl"
-      -
-        url: deepdive.md
-        slug: deepdive
-      -
-        url: whatnext.md
-        slug: whatnext
+        # schedule:
+        #   -
+        #     release_at: "2018-04-02T10:57:37+01:00"
+        #     leadhub: true
+        #     hub_id: "ncl"
