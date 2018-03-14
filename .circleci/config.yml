@@ -6,7 +6,7 @@ general:
 
 notify:
   webhooks:
-    - url: https://api.connectedacademy.io/clearcache/<replacewithyourdomain>
+    - url: https://api.connectedacademy.io/clearcache/rocket.connectedacademy.io
 
 jobs:
   build:

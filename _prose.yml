@@ -1,8 +1,8 @@
 prose:
-  siteurl: <replacewithyourdomain>
+  siteurl: rocket.connectedacademy.io
   rooturl: course
   media: 'course/content/media'
-  relativeLinks: <replacewithyourdomain>/links.jsonp
+  relativeLinks: rocket.connectedacademy.io/links.jsonp
   metadata:
     'course/content':
       - name: title
