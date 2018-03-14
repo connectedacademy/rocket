@@ -34,12 +34,13 @@ else
     cp -R ~/connectedacademy/branding/fonts/* /repos/elevator/src/assets/fonts/
     cp -R ~/connectedacademy/branding/components/* /repos/elevator/src/components/
     cp -R ~/connectedacademy/branding/static/* /repos/elevator/static/
-
-    cd /repos/elevator
-    npm i --silent
-    npm run build
-    echo "Build Complete"
 fi
+
+echo "Building elevator..."
+cd /repos/elevator
+npm i --silent
+npm run build
+echo "Build Complete"
 
 cd $DIR
 cp -r /repos/elevator/docs/* ~/connectedacademy
