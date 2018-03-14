@@ -11,7 +11,7 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 #     echo "Auto Update UI Mode"
 #     GIT_REF="master"
 # fi
-GIT_REF="master"
+GIT_REF="rocket"
 
 
 
