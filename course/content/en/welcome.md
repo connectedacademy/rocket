@@ -6,4 +6,4 @@ title: Welcome
 expectsubmission: false
 ---
 
-Welcome to the course!
+Welcome to the course titled 'Depictions of Addiction'

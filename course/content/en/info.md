@@ -2,8 +2,8 @@
 published: true
 content_type: title
 optional: false
-title: Rocket
-description: Introduction to Rocket
+title: Depictions of Addiction
+description: Depictions of Addiction
 expectsubmission: false
 ---
-### Welcome to the Connected Academy!
+### Welcome to Depictions of Addiction on Connected Academy
