@@ -6,4 +6,4 @@ title: Welcome
 expectsubmission: false
 ---
 
-Welcome to the course titled 'Depictions of Addiction'
+'Depictions of Addiction' is a course developed by Jonathan Worth at Open Lab, Newcastle University. Driven through Connected Academy is aims to offer students with a modern learning experience.
