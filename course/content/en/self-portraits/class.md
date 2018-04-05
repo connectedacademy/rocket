@@ -5,7 +5,7 @@ optional: false
 title: Self Portraits
 description: >-
   All images displayed are Copyrighted - All Rights Reserved.
-duration: '50'
+duration: '1875'
 expectsubmission: false
 audio:
   - self-portraits-32.mp3
