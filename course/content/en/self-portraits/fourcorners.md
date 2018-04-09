@@ -1,6 +1,6 @@
 ---
 published: true
-content_type: pre
+content_type: fourcorners
 optional: false
 expectsubmission: false
 title: About Four Corners
