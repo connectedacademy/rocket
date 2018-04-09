@@ -32,6 +32,9 @@ classes:
       -
         url: class.md
         slug: liveclass
+      -
+        url: fourcorners.md
+        slug: fourcorners
   # -
   #   dir: miss-wish
   #   slug: miss-wish

@@ -1,9 +1,12 @@
 ---
 published: true
-content_type: pre
+content_type: fourcorners
 optional: false
 expectsubmission: false
-title: intro.md
-description: Intro to class
+title: Introduction (TODO)
+description: A description of the 'Kensington blues' class and how it fits into the 'Depictions of Addiction' course.
 ---
-## Intro
+## Kensington blues
+
+### TODO
+A description of the 'Kensington blues' class and how it fits into the 'Depictions of Addiction' course.
