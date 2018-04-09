@@ -27,6 +27,9 @@ classes:
     slug: kensington-blues
     content:
       -
+        url: intro.md
+        slug: intro
+      -
         url: class.md
         slug: liveclass
   # -
