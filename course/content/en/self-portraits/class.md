@@ -2,9 +2,9 @@
 published: true
 content_type: class
 optional: false
-title: Self Portraits
+title: Live Class
 description: >-
-  All images displayed are Copyrighted - All Rights Reserved.
+  Join the live discussion via Twitter. All images displayed are Copyrighted - All Rights Reserved.
 duration: '1875'
 expectsubmission: false
 audio:
