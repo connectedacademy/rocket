@@ -22,13 +22,13 @@ classes:
       -
         url: fourcorners.md
         slug: fourcorners
-  # -
-  #   dir: kensington-blues
-  #   slug: kensington-blues
-  #   content:
-  #     -
-  #       url: class.md
-  #       slug: liveclass
+  -
+    dir: kensington-blues
+    slug: kensington-blues
+    content:
+      -
+        url: class.md
+        slug: liveclass
   # -
   #   dir: miss-wish
   #   slug: miss-wish
