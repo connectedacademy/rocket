@@ -2,7 +2,6 @@
 published: true
 content_type: pre
 optional: false
-<<<<<<< HEAD
 title: Self-portraits
 description: >-
   Photographer Graham Macindoe and journalist Susan Stellin provide a case-study
@@ -18,15 +17,6 @@ description: >-
 expectsubmission: false
 ---
 ## Self-portraits - Introduction
-=======
-title: Depictions of Addiction
-description: >-
-  A description of the 'Self-Portraits' class and how it fits into the 'Depictions of Addiction' course.
-expectsubmission: false
----
-
-## Self-Portraits
->>>>>>> 248dcf5579389ca1d2bcbccc2ea22f8ad6c36867
 
 What we say and what other people hear, are not always the same thing. 
 
