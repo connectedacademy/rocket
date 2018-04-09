@@ -1,6 +1,6 @@
 ---
 published: true
-content_type: fourcorners
+content_type: pre
 optional: false
 expectsubmission: false
 title: Introduction (TODO)
