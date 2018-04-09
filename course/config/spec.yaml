@@ -19,6 +19,9 @@ classes:
       -
         url: class.md
         slug: liveclass
+      -
+        url: fourcorners.md
+        slug: fourcorners
   # -
   #   dir: kensington-blues
   #   slug: kensington-blues
