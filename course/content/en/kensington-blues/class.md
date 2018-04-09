@@ -8,10 +8,10 @@ description: >-
 duration: '1875'
 expectsubmission: false
 audio:
-  - self-portraits-32.mp3
-  - self-portraits-32.ogg
-transcript: transcripts/self-portraits-transcript.json
-images: transcripts/self-portraits-images.json
-prompts: transcripts/self-portraits-prompts.json
-media: transcripts/self-portraits-media.json
+  - kensington-blues-32.mp3
+  - kensington-blues-32.ogg
+transcript: transcripts/kensington-blues-transcript.json
+images: transcripts/kensington-blues-images.json
+prompts: transcripts/kensington-blues-prompts.json
+media: transcripts/kensington-blues-media.json
 ---
