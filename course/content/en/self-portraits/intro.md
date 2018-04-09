@@ -3,7 +3,10 @@ published: true
 content_type: pre
 optional: false
 expectsubmission: false
-title: intro.md
-description: Intro to class
+title: Introduction
+description: TODO: A description of the 'Self-Portraits' class and how it fits into the 'Depictions of Addiction' course.
 ---
-## Intro
+## Self-Portraits
+
+### TODO
+A description of the 'Self-Portraits' class and how it fits into the 'Depictions of Addiction' course.
