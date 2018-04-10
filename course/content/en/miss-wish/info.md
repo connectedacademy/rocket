@@ -3,6 +3,6 @@ published: true
 content_type: title
 optional: false
 title: Miss Wish
-description: 'Photographer: Graham Macindoe, Subject: Graham Macindoe, Audience: Susan Stellin, Expert context: Susan Stellin'
+description: 'An Autobiography of Miss Wish - Photographer: Nena Berman, Subject: Kimberly Wish, Audience: TBC, Expert context: Dr Carl Hart'
 expectsubmission: false
 ---
