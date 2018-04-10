@@ -1,6 +1,6 @@
 ---
 published: true
-content_type: pre
+content_type: content
 optional: false
 expectsubmission: false
 title: Introduction

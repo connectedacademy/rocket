@@ -1,6 +1,6 @@
 ---
 published: true
-content_type: deepdive
+content_type: content
 optional: true
 expectsubmission: false
 title: Extended Content

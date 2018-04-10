@@ -1,6 +1,6 @@
 ---
 published: true
-content_type: postclass
+content_type: content
 optional: false
 expectsubmission: false
 title: Deep dive with Jim Mortram
