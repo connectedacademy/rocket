@@ -25,9 +25,6 @@ classes:
       -
         url: deepdive.md
         slug: deepdive
-      -
-        url: nextclass.md
-        slug: nextclass
   -
     dir: kensington-blues
     slug: kensington-blues
