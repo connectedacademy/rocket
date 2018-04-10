@@ -22,6 +22,9 @@ classes:
       -
         url: fourcorners.md
         slug: fourcorners
+      -
+        url: deepdive.md
+        slug: deepdive
   -
     dir: kensington-blues
     slug: kensington-blues
