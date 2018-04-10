@@ -25,6 +25,9 @@ classes:
       -
         url: deepdive.md
         slug: deepdive
+      -
+        url: extended.md
+        slug: extended
   -
     dir: kensington-blues
     slug: kensington-blues
