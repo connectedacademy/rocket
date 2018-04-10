@@ -4,7 +4,8 @@ content_type: pre
 optional: false
 expectsubmission: false
 title: Introduction
-description: > Photographer Graham Macindoe and journalist Susan Stellin provide a case-study for us to consider how images are interpreted and to reflect on their enduring and potentially evolving impact. @[bio](Graham Macindoe|https://interpretation.connectedacademy.io/course/content/media/thumb/Graham_cropped.jpg|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe |https://www.twitter.com/grahammacindoe) During the course, we will be making [Four Corners](/#/fourcorners) images as a way of sharing and discussing the emergent issues.
+description: >-
+  Photographer Graham Macindoe and journalist Susan Stellin provide a case-study for us to consider how images are interpreted and to reflect on their enduring and potentially evolving impact. @[bio](Graham Macindoe|https://interpretation.connectedacademy.io/course/content/media/thumb/Graham_cropped.jpg|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe |https://www.twitter.com/grahammacindoe) During the course, we will be making [Four Corners](/#/fourcorners) images as a way of sharing and discussing the emergent issues.
 ---
 ## Self-portraits - Introduction
 
