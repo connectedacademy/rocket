@@ -35,10 +35,16 @@ classes:
       -
         url: fourcorners.md
         slug: fourcorners
-  # -
-  #   dir: miss-wish
-  #   slug: miss-wish
-  #   content:
-  #     -
-  #       url: class.md
-  #       slug: liveclass
+  -
+    dir: miss-wish
+    slug: miss-wish
+    content:
+      -
+        url: intro.md
+        slug: intro
+      -
+        url: class.md
+        slug: liveclass
+      -
+        url: fourcorners.md
+        slug: fourcorners
