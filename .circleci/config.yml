@@ -24,5 +24,5 @@ jobs:
             - ./node_modules
       - run: npm run generate
       - add_ssh_keys
-      - run: chmod +x ./quick-build.sh
-      - run: ./quick-build.sh
+      - run: chmod +x ./build.sh
+      - run: ./build.sh
