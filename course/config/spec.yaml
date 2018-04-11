@@ -23,9 +23,6 @@ classes:
         url: fourcorners.md
         slug: fourcorners
       -
-        url: deepdive.md
-        slug: deepdive
-      -
         url: extended.md
         slug: extended
   -
