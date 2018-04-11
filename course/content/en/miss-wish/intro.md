@@ -4,7 +4,8 @@ content_type: content
 optional: false
 expectsubmission: false
 title: Introduction
-description: A description of the 'Miss Wish' class and how it fits into the 'Depictions of Addiction' course.
+description: >-
+  A description of the 'Miss Wish' class and how it fits into the 'Depictions of Addiction' course.
 ---
 ## Introduction
 
