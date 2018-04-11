@@ -5,7 +5,7 @@ optional: false
 expectsubmission: false
 title: Introduction
 description: >-
-  Photographer Jeffrey Stockbridge discusses photography with others @[bio](Carl Hart|https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Carl_Hart_%2818210024296%29.jpg/220px-Carl_Hart_%2818210024296%29.jpg|Carl Hart is the Chair of the Department of Psychology at Columbia University. He is also the Dirk Ziff Professorof Psychology in the Departments of Psychology and Psychiatry. Prof. Hart has published nearly 100 scientificarticles in the area of neuropsychopharmacology and is co-author of the textbook Drugs, Society and Human Behavior (with Charles Ksir).”|http://drcarlhart.com)
+  Photographer Jeffrey Stockbridge discusses photography with others @[bio](Carl Hart|https://rocket.connectedacademy.io/course/content/media/thumb/carl_hart.jpg|Carl Hart is the Chair of the Department of Psychology at Columbia University. He is also the Dirk Ziff Professorof Psychology in the Departments of Psychology and Psychiatry. Prof. Hart has published nearly 100 scientificarticles in the area of neuropsychopharmacology and is co-author of the textbook Drugs, Society and Human Behavior (with Charles Ksir).”|http://drcarlhart.com)
 ---
 ## Kensington blues
 
