@@ -1,6 +1,6 @@
 ---
 published: true
-content_type: pre
+content_type: homework
 optional: false
 expectsubmission: true
 title: Preparation
