@@ -44,6 +44,9 @@ classes:
       -
         url: fourcorners.md
         slug: fourcorners
+      -
+        url: extended.md
+        slug: extended
   -
     dir: miss-wish
     slug: miss-wish
@@ -57,3 +60,6 @@ classes:
       -
         url: fourcorners.md
         slug: fourcorners
+      -
+        url: extended.md
+        slug: extended
