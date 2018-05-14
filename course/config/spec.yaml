@@ -17,6 +17,9 @@ classes:
         url: intro.md
         slug: intro
       -
+        url: homework.md
+        slug: homework
+      -
         url: class.md
         slug: liveclass
       -
