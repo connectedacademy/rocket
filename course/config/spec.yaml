@@ -30,11 +30,11 @@ classes:
         url: intro.md
         slug: intro
       -
-        url: class.md
-        slug: liveclass
-      -
         url: fourcorners.md
         slug: fourcorners
+      -
+        url: class.md
+        slug: liveclass
       -
         url: extended.md
         slug: extended
@@ -49,8 +49,8 @@ classes:
         url: class.md
         slug: liveclass
       -
-        url: homework.md
-        slug: homework
-      -
         url: extended.md
         slug: extended
+      -
+        url: homework.md
+        slug: homework

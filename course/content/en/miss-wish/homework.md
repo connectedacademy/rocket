@@ -3,12 +3,12 @@ published: true
 content_type: homework
 optional: false
 expectsubmission: true
-title: Preparation
+title: Homework
 description: >-
   ‘Tell us the story of something that isn’t there.’ In preparation for the
   class you should create a context-rich image. Use the Four Corners Editor to
   add rich meta-data addressing the theme of Absence. Whether the image is new
-  or old, one of yours or someone else’s is up to you, but the information
+  or old, one of yours or someone elses is up to you, but the information
   should add new layers of meaning for the reader.
 homework: true
 ---
