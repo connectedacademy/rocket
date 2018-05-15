@@ -20,11 +20,11 @@ classes:
         url: class.md
         slug: liveclass
       -
-        url: extended.md
-        slug: extended
-      -
         url: reading.md
         slug: reading
+      -
+        url: extended.md
+        slug: extended
   -
     dir: kensington-blues
     slug: kensington-blues

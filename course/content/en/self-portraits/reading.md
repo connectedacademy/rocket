@@ -5,7 +5,7 @@ optional: false
 expectsubmission: false
 title: Further Reading
 description: >-
-  Interested in reading more? Click below to explore the curated list of articles around this topic.
+  We have curated an extensive list of articles around the topic of self-portraits and encourage you to explore the conversations happening across the web. If you find something you think belongs on this list reach out to us.
 ---
 ## Further Reading
 
