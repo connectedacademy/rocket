@@ -20,7 +20,7 @@ Four Corners is a simple authoring and context tool for photographers. It enable
 
 > Ex-New York Times Photo Editor [Fred Ritchin](https://www.icp.org/users/fredritchin), proposed the idea in his book `After Photography`. He envisaged each corner of an image providing access to extra information; top left would be the frames before and after, top right would be links to further, related information. Bottom left would be the background-story of the image and bottom right would be the photographer’s name, copyright terms and, their code of ethics.
 
-![4c1.png]({{site.baseurl}}/course/content/media/4c1.png)
+![4c1.png](https://rocket.connectedacademy.io/course/content/media/4c1.png)
 
 **We’re using 4C because it shifts the role of the photographer from being a supplier of content, to becoming a publisher, whilst affording the reader a richer and more active reading experience.**
 
