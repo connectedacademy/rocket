@@ -17,17 +17,8 @@ classes:
         url: intro.md
         slug: intro
       -
-        url: homework.md
-        slug: homework
-      -
         url: class.md
         slug: liveclass
-      -
-        url: fourcorners.md
-        slug: fourcorners
-      -
-        url: deepdive.md
-        slug: deepdive
       -
         url: extended.md
         slug: extended
@@ -58,8 +49,8 @@ classes:
         url: class.md
         slug: liveclass
       -
-        url: fourcorners.md
-        slug: fourcorners
+        url: homework.md
+        slug: homework
       -
         url: extended.md
         slug: extended
