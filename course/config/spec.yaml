@@ -22,6 +22,9 @@ classes:
       -
         url: extended.md
         slug: extended
+      -
+        url: reading.md
+        slug: reading
   -
     dir: kensington-blues
     slug: kensington-blues
