@@ -3,6 +3,7 @@ slug: rocket
 hashtag: "#connectedacademy"
 engine: local # local, twitter etc.
 cdn: https://api.connectedacademy.io/v1
+# cdn: http://localhost:4000/v1
 admins: 
   - edjenkins91
 pages:
