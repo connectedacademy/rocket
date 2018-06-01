@@ -1,8 +1,0 @@
--
-  id: "ncl"
-  name: "Newcastle"
-  timezone: "+01:00"
-  service: "twitter"
-  account: "@edjenkins91"
-  hashtag: "#ncl"
-  lang: "en"

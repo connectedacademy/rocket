@@ -1,0 +1,34 @@
+title: Self-Portraits
+description: A description of the Self-Portraits class
+slug: self-portraits
+course: doa
+content:
+  -
+    title: Introduction
+    description: Photographer Graham Macindoe and journalist Susan Stellin provide a case-study for us to consider how images are interpreted and to reflect on their enduring and potentially evolving impact. @[bio](Graham Macindoe|https://raw.githubusercontent.com/connectedacademy/rocket/master/course/content/media/Graham_cropped.jpg|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe |https://www.twitter.com/grahammacindoe)
+    slug: intro
+    type: content
+    rich: true
+  -
+    title: Live Class
+    description: Join the live discussion via Twitter. All images displayed are Copyrighted - All Rights Reserved.
+    slug: liveclass
+    type: liveclass
+    duration: 1800
+    transcript: self-portraits-transcript
+    images: self-portraits-images
+    audio:
+      - self-portraits-32.mp3
+      - self-portraits-32.ogg
+  -
+    title: Further Reading
+    description: We have curated an extensive list of articles around the topic of self-portraits and encourage you to explore the conversations happening across the web. If you find something you think belongs on this list reach out to us.
+    slug: reading
+    type: content
+    rich: true
+  -
+    title: Extended Content
+    description: Access Graham and Susan's original full-length interviews as well as suggested links for further reading. You can also reach out to them directly via their social media channels which are provided.
+    slug: extended
+    type: content
+    rich: true

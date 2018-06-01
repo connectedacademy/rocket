@@ -1,0 +1,27 @@
+title: Depictions of Addiction
+slug: rocket
+hashtag: "#connectedacademy"
+engine: local # local, twitter etc.
+cdn: http://localhost:4000/v1
+admins: 
+  - edjenkins91
+pages:
+  welcome: welcome
+  about: about
+  info: info
+classes:
+  -
+    title: Self-Portraits
+    description: 'Photographer: Graham Macindoe, Subject: Graham Macindoe, Audience: Susan Stellin, Expert context: Susan Stellin'
+    slug: self-portraits
+    date: 05-12-2018 00:00
+  -
+    title: Kensington Blues
+    description: 'Photographer: Jeffrey Stockbridge, Subject: Krista, Audience: Stephen Mayes, Expert context: Susan Stellin'
+    slug: kensington-blues
+    date: 05-17-2018 00:00
+  -
+    title: Miss Wish
+    description: 'An Autobiography of Miss Wish - Photographer: Nena Berman, Subject: Kimberly Wish, Audience: TBC, Expert context: Dr Carl Hart'
+    slug: miss-wish
+    date: 05-22-2018 00:00

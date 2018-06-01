@@ -1,0 +1,39 @@
+title: Miss Wish
+slug: miss-wish
+course: doa
+description: A description of the Miss Wish class
+content:
+  -
+    title: Introduction
+    description: Photographer Graham Macindoe and journalist Susan Stellin provide a case-study for us to consider how images are interpreted and to reflect on their enduring and potentially evolving impact.
+    slug: intro
+    type: content
+    rich: true
+  -
+    title: Live Class
+    description: Join the live discussion via Twitter. All images displayed are Copyrighted - All Rights Reserved.
+    slug: liveclass
+    type: liveclass
+    duration: 1800
+    transcript: miss-wish-transcript
+    images: miss-wish-images
+    audio:
+      - miss-wish-32.mp3
+      - miss-wish-32.ogg
+  -
+    title: Further Reading
+    description: We have curated an extensive list of articles around the topic of Miss Wish and encourage you to explore the conversations happening across the web. If you find something you think belongs on this list reach out to us.
+    slug: reading
+    type: content
+    rich: true
+  -
+    title: Extended Content
+    description: Access Graham and Susan's original full-length interviews as well as suggested links for further reading. You can also reach out to them directly via their social media channels which are provided.
+    slug: extended
+    type: content
+    rich: true
+  -
+    title: Homework
+    description: In preparation for the class you should create a context-rich image. Use the Four Corners Editor to add rich meta-data addressing the theme of Absence. Whether the image is new or old, one of yours or someone elses is up to you, but the information should add new layers of meaning for the reader.
+    slug: homework
+    type: homework
