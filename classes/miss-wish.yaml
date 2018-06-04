@@ -10,17 +10,6 @@ content:
     type: content
     rich: true
   -
-    title: Live Class
-    description: Join the live discussion via Twitter. All images displayed are Copyrighted - All Rights Reserved.
-    slug: liveclass
-    type: liveclass
-    duration: 1800
-    transcript: miss-wish-transcript
-    images: miss-wish-images
-    audio:
-      - miss-wish-32.mp3
-      - miss-wish-32.ogg
-  -
     title: Further Reading
     description: We have curated an extensive list of articles around the topic of Miss Wish and encourage you to explore the conversations happening across the web. If you find something you think belongs on this list reach out to us.
     slug: reading
