@@ -10,8 +10,8 @@ expectsubmission: false
 audio:
   - kensington-blues-32.mp3
   - kensington-blues-32.ogg
-transcript: transcripts/kensington-blues-transcript.json
-images: transcripts/kensington-blues-images.json
-prompts: transcripts/kensington-blues-prompts.json
-media: transcripts/kensington-blues-media.json
+transcript: kensington-blues-transcript.json
+images: kensington-blues-images.json
+prompts: kensington-blues-prompts.json
+media: kensington-blues-media.json
 ---

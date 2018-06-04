@@ -10,8 +10,8 @@ expectsubmission: false
 audio:
   - miss-wish-32.mp3
   - miss-wish-32.ogg
-transcript: transcripts/miss-wish-transcript.json
-images: transcripts/miss-wish-images.json
-prompts: transcripts/miss-wish-prompts.json
-media: transcripts/miss-wish-media.json
+transcript: miss-wish-transcript.json
+images: miss-wish-images.json
+prompts: miss-wish-prompts.json
+media: miss-wish-media.json
 ---
