@@ -5,7 +5,10 @@ course: doa
 content:
   -
     title: Introduction
-    description: Photographer Graham Macindoe and journalist Susan Stellin provide a case-study for us to consider how images are interpreted and to reflect on their enduring and potentially evolving impact. @[bio](Graham Macindoe|CDN_URL/images/Graham_cropped.jpg|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe |https://www.twitter.com/grahammacindoe)
+    description: >-
+      Photographer Graham Macindoe and journalist Susan Stellin provide a case-study for us to consider how images are interpreted and to reflect on their enduring and potentially evolving impact.
+      # @[bio](Graham Macindoe|CDN_URL/images/Graham_cropped.jpg|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe |https://www.twitter.com/grahammacindoe)
+      @[bio](Susan Stellin|CDN_URL/images/Susan_Stellin_cropped.jpg|Susan Stellin is a freelance reporter, co-author of the memoir Chancers, and adjunct professor in the Journalism + Design department at The New School in New York City.|http://www.susanstellin.com)
     slug: intro
     type: content
     rich: true
@@ -29,6 +32,7 @@ content:
   -
     title: Extended Content
     description: Access Graham and Susan's original full-length interviews as well as suggested links for further reading. You can also reach out to them directly via their social media channels which are provided.
+    video: Renqf1Ltg04
     slug: extended
     type: content
     rich: true

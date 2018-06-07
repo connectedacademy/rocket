@@ -5,7 +5,7 @@ description: A description of the Kensington Blues class
 content:
   -
     title: Introduction
-    description: Photographer Graham Macindoe and journalist Susan Stellin provide a case-study for us to consider how images are interpreted and to reflect on their enduring and potentially evolving impact.
+    description: Photographer Jeffrey Stockbridge discusses photography with others @[bio](Carl Hart|CDN_URL/images/carl_hart.jpg|Carl Hart is the Chair of the Department of Psychology at Columbia University. He is also the Dirk Ziff Professorof Psychology in the Departments of Psychology and Psychiatry. Prof. Hart has published nearly 100 scientificarticles in the area of neuropsychopharmacology and is co-author of the textbook Drugs, Society and Human Behavior (with Charles Ksir).”|http://drcarlhart.com)
     slug: intro
     type: content
     rich: true
@@ -28,7 +28,7 @@ content:
     rich: true
   -
     title: Extended Content
-    description: Access Graham and Susan's original full-length interviews as well as suggested links for further reading. You can also reach out to them directly via their social media channels which are provided.
+    description: TBC
     slug: extended
     type: content
     rich: true

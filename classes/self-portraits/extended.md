@@ -1,13 +1,3 @@
----
-published: true
-content_type: content
-optional: true
-expectsubmission: false
-title: Extended Content
-description: >-
-  Access Graham and Susan's original full-length interviews as well as suggested links for further reading. You can also reach out to them directly via their social media channels which are provided.
----
-
 Here you can access Graham and Susan's original interviews in full.
 
 ## Graham MacIndoe

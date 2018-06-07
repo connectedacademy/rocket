@@ -5,24 +5,24 @@ description: A description of the Miss Wish class
 content:
   -
     title: Introduction
-    description: Photographer Graham Macindoe and journalist Susan Stellin provide a case-study for us to consider how images are interpreted and to reflect on their enduring and potentially evolving impact.
+    description: TBC
     slug: intro
     type: content
     rich: true
   -
     title: Further Reading
-    description: We have curated an extensive list of articles around the topic of Miss Wish and encourage you to explore the conversations happening across the web. If you find something you think belongs on this list reach out to us.
+    description: TBC
     slug: reading
     type: content
     rich: true
   -
     title: Extended Content
-    description: Access Graham and Susan's original full-length interviews as well as suggested links for further reading. You can also reach out to them directly via their social media channels which are provided.
+    description: TBC
     slug: extended
     type: content
     rich: true
   -
     title: Homework
-    description: In preparation for the class you should create a context-rich image. Use the Four Corners Editor to add rich meta-data addressing the theme of Absence. Whether the image is new or old, one of yours or someone elses is up to you, but the information should add new layers of meaning for the reader.
+    description: TBC
     slug: homework
     type: homework

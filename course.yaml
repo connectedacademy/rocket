@@ -20,10 +20,10 @@ classes:
   -
     title: Kensington Blues
     description: 'Photographer: Jeffrey Stockbridge, Subject: Krista, Audience: Stephen Mayes, Expert context: Susan Stellin'
-    slug: kensington-blues
-    date: 05-17-2018
+    # slug: kensington-blues
+    date: 05-17-2019
   -
     title: Miss Wish
     description: 'An Autobiography of Miss Wish - Photographer: Nena Berman, Subject: Kimberly Wish, Audience: TBC, Expert context: Dr Carl Hart'
-    slug: miss-wish
-    date: 05-22-2018
+    # slug: miss-wish
+    date: 05-22-2019

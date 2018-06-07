@@ -1,12 +1,3 @@
----
-published: true
-content_type: content
-optional: false
-expectsubmission: false
-title: Further Reading
-description: >-
-  We have curated an extensive list of articles around the topic of self-portraits and encourage you to explore the conversations happening across the web. If you find something you think belongs on this list reach out to us.
----
 ## Further Reading
 
 Wikipedia Rikers Island - https://en.wikipedia.org/wiki/Rikers_Island
