@@ -20,6 +20,9 @@ content:
     duration: 1875
     transcript: self-portraits-transcript
     images: self-portraits-images
+    intro: 
+      title: Jonathan's Introduction
+      audio: CDN_URL/classes/self-portraits/self-portraits-32.mp3
     audio:
       - self-portraits-32.mp3
       - self-portraits-32.ogg
