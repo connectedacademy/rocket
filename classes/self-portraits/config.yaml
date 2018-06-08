@@ -7,14 +7,16 @@ content:
     title: Introduction
     description: >-
       Photographer Graham Macindoe and journalist Susan Stellin provide a case-study for us to consider how images are interpreted and to reflect on their enduring and potentially evolving impact.
-      # @[bio](Graham Macindoe|CDN_URL/images/Graham_cropped.jpg|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe |https://www.twitter.com/grahammacindoe)
-      @[bio](Susan Stellin|CDN_URL/images/Susan_Stellin_cropped.jpg|Susan Stellin is a freelance reporter, co-author of the memoir Chancers, and adjunct professor in the Journalism + Design department at The New School in New York City.|http://www.susanstellin.com)
+      @[bio](Susan Stellin|CDN_URL/images/Susan_Stellin_cropped.jpg|Susan Stellin is a freelance reporter, co-author of the memoir Chancers, and adjunct professor in the Journalism + Design department at The New School in New York City.|http://www.susanstellin.com)  
+
+
+      @[bio](Graham Macindoe|CDN_URL/images/Graham_cropped.jpg|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://twitter.com/grahammacindoe)
     slug: intro
     type: content
     rich: true
   -
     title: Live Class
-    description: Join the live discussion via Twitter. All images displayed are Copyrighted - All Rights Reserved.
+    description: Join the live discussion and share your thoughts via Twitter. All images are copyright Graham Macindoe.
     slug: liveclass
     type: liveclass
     duration: 1875
@@ -28,13 +30,15 @@ content:
       - self-portraits-32.ogg
   -
     title: Further Reading
-    description: We have curated an extensive list of articles around the topic of self-portraits and encourage you to explore the conversations happening across the web. If you find something you think belongs on this list reach out to us.
+    description: >-
+      Here you’ll find links to articles relating to the work discussed and some of the themes discussed.
+      Please tweet any of your suggestions for links @Jonathan_Worth
     slug: reading
     type: content
     rich: true
   -
     title: Extended Content
-    description: Access Graham and Susan's original full-length interviews as well as suggested links for further reading. You can also reach out to them directly via their social media channels which are provided.
+    description: Access Graham and Susan’s original full-length interviews and extra related content.
     video: Renqf1Ltg04
     slug: extended
     type: content

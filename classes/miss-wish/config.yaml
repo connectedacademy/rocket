@@ -5,19 +5,35 @@ description: A description of the Miss Wish class
 content:
   -
     title: Introduction
-    description: TBC
+    description: >-
+      In this, the third of our series on Depictions Of Addiction, New York based photographer Nina Berman interviews her long term subject Kimberly Wish. Industry stalwart and critical thinker Stephen Mayes reflects on the audience perspective and Professor Mark Kleiman of New York University again challenges our thinking on addiction and forces us to revisit our earlier discussions.
+      @[bio](Nina Berman|CDN_URL/images/ninaberman.jpg|Nina is a documentary photographer, author and educator. Much of her photographic work focuses upon the American political and social landscape, including the militarization of American life and the dialogue around war, patriotism and sacrifice.|http://www.ninaberman.com)
     slug: intro
     type: content
     rich: true
   -
+    title: Live Class
+    description: Join the live discussion and share your thoughts via Twitter. Photographs are copyright Nina Berman, drawings are copyright Kimberly Stevens.
+    slug: liveclass
+    type: liveclass
+    duration: 0
+    transcript: miss-wish-transcript
+    images: miss-wish-images
+    intro: 
+      title: Jonathan's Introduction
+      audio: 
+    audio:
+      - miss-wish-32.mp3
+      - miss-wish-32.ogg
+  -
     title: Further Reading
-    description: TBC
+    description: Read the following [An Auto Biography of Miss Wish](http://www.ninaberman.com/an-autobiography-of-miss-wish) and [Against Excess by Mark Kleiman](https://www.smashwords.com/books/view/142097)
     slug: reading
     type: content
-    rich: true
+    rich: false
   -
     title: Extended Content
-    description: TBC
+    description: Access the original full-length interviews and extra related content.
     slug: extended
     type: content
     rich: true
