@@ -20,7 +20,7 @@ content:
     transcript: self-portraits-transcript
     images: self-portraits-images
     intro: 
-      title: Jonathan's Introduction
+      title: Listen to Jonathan's introduction of the class
       audio: CDN_URL/classes/self-portraits/intro.mp3
     audio:
       - self-portraits-32.mp3

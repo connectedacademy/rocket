@@ -20,7 +20,7 @@ content:
     transcript: kensington-blues-transcript
     images: kensington-blues-images
     intro: 
-      title: Jonathan's Introduction
+      title: Listen to Jonathan's introduction of the class
       audio: CDN_URL/classes/kensington-blues/intro.mp3
     audio:
       - kensington-blues-32.mp3
