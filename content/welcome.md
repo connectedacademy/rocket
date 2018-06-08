@@ -1,1 +1,1 @@
-This course was produced by Jonathan Worth at Open Lab, Newcastle University. Powered by the Connected Academy platform it aims to offer a refreshing learning experience driven by live discussion.
+This series was produced by Jonathan Worth at Open Lab, Newcastle University in the UK. Powered by the Connected Academy Engagement Engine, it aims to offer a networked teaching and learning experience driven by discussion.
