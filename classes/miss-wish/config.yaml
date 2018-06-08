@@ -21,7 +21,7 @@ content:
     images: miss-wish-images
     intro: 
       title: Jonathan's Introduction
-      audio: 
+      audio: CDN_URL/classes/miss-wish/intro.mp3
     audio:
       - miss-wish-32.mp3
       - miss-wish-32.ogg

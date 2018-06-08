@@ -7,7 +7,7 @@ content:
     title: Introduction
     description: >-
       In this, the second of three episodes, new participants revisit some of the themes of episode one and their alternate perspectives enable us to build on those discussions. We move from the self-portraiture of Graham Macindoe, to the participatory practices of Jeffery Stockbridge and his Kensington Blues project.
-      @[bio](Jeffrey Stockbridge|default|Graduated from Drexel University with a BS in Photography in 2005. His photographs have been included in recent exhibitions at The National Portrait Gallery London, The Philadelphia Museum of Art, The Delaware Art Museum, The Delaware Center for Contemporary Arts, The Houston Center for Photography, The Wapping Project Bankside and The Print Center. Stockbridge’s current series Kensington Blues, was accepted into Review Santa Fe and awarded a Critical Mass Top 50 Winner by Photo Lucida in 2014. In 2010, Stockbridge was nominated for the Taylor-Wessing Photographic Portrait Prize and he was recently shortlisted for both the Lange-Taylor Prize and the Center For Documentary Studies First Book Prize. Stockbridge is a recipient of a Pennsylvania Council on the Arts Grant, an Independence Foundation Fellowship and a CFEVA Fellowship. His work has been featured in publications such as The NY Times Magazine, The Telegraph UK, Time Magazine Light Box, Vignette Magazine, Feature Shoot, and The Rust Belt Rising Almanac. Stockbridge lives and works in Philadelphia, Pennsylvania.|http://www.jeffreystockbridge.com/)
+      @[bio](Jeffrey Stockbridge|default|Graduated from Drexel University with a BS in Photography in 2005. His photographs have been included in recent exhibitions at The National Portrait Gallery London, The Philadelphia Museum of Art, The Delaware Art Museum, The Delaware Center for Contemporary Arts, The Houston Center for Photography, The Wapping Project Bankside and The Print Center. Stockbridge lives and works in Philadelphia, Pennsylvania.|http://www.jeffreystockbridge.com/)
     slug: intro
     type: content
     rich: true
@@ -21,7 +21,7 @@ content:
     images: kensington-blues-images
     intro: 
       title: Jonathan's Introduction
-      audio: 
+      audio: CDN_URL/classes/kensington-blues/intro.mp3
     audio:
       - kensington-blues-32.mp3
       - kensington-blues-32.ogg
@@ -29,11 +29,5 @@ content:
     title: Further Reading
     description: We have curated an extensive list of articles around the topic of Kensington Blues and encourage you to explore the conversations happening across the web. If you find something you think belongs on this list reach out to us.
     slug: reading
-    type: content
-    rich: true
-  -
-    title: Extended Content
-    description: TBC
-    slug: extended
     type: content
     rich: true
