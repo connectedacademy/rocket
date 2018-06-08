@@ -17,7 +17,9 @@ content:
     duration: 1554
     transcript: kensington-blues-transcript
     images: kensington-blues-images
-    # intro: CDN_URL/classes/kensington-blues/kensington-blues-32.mp3
+    intro: 
+      title: Jonathan's Introduction
+      audio: 
     audio:
       - kensington-blues-32.mp3
       - kensington-blues-32.ogg
