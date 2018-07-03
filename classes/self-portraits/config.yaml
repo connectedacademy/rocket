@@ -16,15 +16,15 @@ content:
     description: Join the live discussion and share your thoughts via Twitter. All images are copyright Graham Macindoe.
     slug: liveclass
     type: liveclass
-    duration: 1875
+    duration: 1663.1
     transcript: self-portraits-transcript
     images: self-portraits-images
     intro: 
-      title: Listen to Jonathan's introduction of the class
-      audio: CDN_URL/classes/self-portraits/intro.mp3
+      title: Listen to the class introduction
+      audio: https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-intro-64.mp3
     audio:
-      - self-portraits-32.mp3
-      - self-portraits-32.ogg
+      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-main-64.mp3
+      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-main-64.webm
   -
     title: Further Reading
     description: >-

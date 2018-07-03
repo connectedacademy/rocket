@@ -18,13 +18,13 @@ content:
     type: liveclass
     duration: 1554
     transcript: kensington-blues-transcript
-    images: kensington-blues-images
+    # images: kensington-blues-images
     intro: 
-      title: Listen to Jonathan's introduction of the class
-      audio: CDN_URL/classes/kensington-blues/intro.mp3
+      title: Listen to the class introduction
+      audio: https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-kensington-blues-intro-64.mp3
     audio:
-      - kensington-blues-32.mp3
-      - kensington-blues-32.ogg
+      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-kensington-blues-main-64.mp3
+      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-kensington-blues-main-64.webm
   -
     title: Further Reading
     description: We have curated an extensive list of articles around the topic of Kensington Blues and encourage you to explore the conversations happening across the web. If you find something you think belongs on this list reach out to us.

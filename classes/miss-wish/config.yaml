@@ -16,15 +16,15 @@ content:
     description: Join the live discussion and share your thoughts via Twitter. Photographs are copyright Nina Berman, drawings are copyright Kimberly Stevens.
     slug: liveclass
     type: liveclass
-    duration: 0
+    duration: 1628
     transcript: miss-wish-transcript
-    images: miss-wish-images
+    # images: miss-wish-images
     intro: 
-      title: Listen to Jonathan's introduction of the class
-      audio: CDN_URL/classes/miss-wish/intro.mp3
+      title: Listen to the class introduction
+      audio: https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-miss-wish-intro-64.mp3
     audio:
-      - miss-wish-32.mp3
-      - miss-wish-32.ogg
+      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-miss-wish-main-64.mp3
+      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-miss-wish-main-64.webm
   -
     title: Further Reading
     description: Read the following [An Auto Biography of Miss Wish](http://www.ninaberman.com/an-autobiography-of-miss-wish) and [Against Excess by Mark Kleiman](https://www.smashwords.com/books/view/142097)
