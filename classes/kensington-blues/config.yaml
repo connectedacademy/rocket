@@ -19,9 +19,10 @@ content:
     duration: 1554
     transcript: kensington-blues-transcript
     # images: kensington-blues-images
-    intro: 
-      title: Listen to the class introduction
-      audio: https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-kensington-blues-intro-64.mp3
+    intros:
+      -
+        title: Jonathan Worth's Introduction
+        audio: https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-kensington-blues-intro-64.mp3
     audio:
       - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-kensington-blues-main-64.mp3
       - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-kensington-blues-main-64.webm

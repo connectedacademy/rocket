@@ -19,9 +19,12 @@ content:
     duration: 1663.1
     transcript: self-portraits-transcript
     images: self-portraits-images
-    intro: 
-      title: Listen to the class introduction
-      audio: https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-intro-64.mp3
+    intros:
+      -
+        title: Photographer's Introduction
+        audio: https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-intro-64.mp3
+      # -
+        # title: Police Officer's Introduction
     audio:
       - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-main-64.mp3
       - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-main-64.webm
