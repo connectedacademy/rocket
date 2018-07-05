@@ -1,1 +1,0 @@
-### Welcome to Depictions of Addiction on Connected Academy
