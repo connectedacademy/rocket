@@ -1,6 +1,6 @@
-title: Self-Portraits
-description: A description of the Self-Portraits class
-slug: self-portraits
+title: Coming Clean
+description: A description of the Coming Clean class
+slug: coming-clean
 course: doa
 content:
   -
@@ -17,17 +17,17 @@ content:
     slug: liveclass
     type: liveclass
     duration: 1663.1
-    transcript: self-portraits-transcript
-    images: self-portraits-images
+    transcript: coming-clean-transcript
+    images: coming-clean-images
     intros:
       -
-        title: Photographer's Introduction
-        audio: https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-intro-64.mp3
+        title: Jonathan Worth's Introduction
+        audio: https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-coming-clean-intro-64.mp3
       # -
         # title: Police Officer's Introduction
     audio:
-      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-main-64.mp3
-      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-self-portraits-main-64.webm
+      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-coming-clean-main-64.mp3
+      - https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-coming-clean-main-64.webm
   -
     title: Further Reading
     description: >-
