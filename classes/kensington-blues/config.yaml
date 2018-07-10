@@ -17,8 +17,6 @@ content:
     slug: liveclass
     type: liveclass
     duration: 1554
-    transcript: kensington-blues-transcript
-    # images: kensington-blues-images
     intros:
       -
         title: Jonathan Worth's Introduction

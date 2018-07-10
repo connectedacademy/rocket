@@ -17,8 +17,6 @@ content:
     slug: liveclass
     type: liveclass
     duration: 1628
-    transcript: miss-wish-transcript
-    # images: miss-wish-images
     intros:
       -
         title: Jonathan Worth's Introduction

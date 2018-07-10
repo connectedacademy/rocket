@@ -16,8 +16,6 @@
       slug: "liveclass"
       type: "liveclass"
       duration: 1663.1
-      transcript: "coming-clean-transcript"
-      images: "coming-clean-images"
       intros: 
         - 
           title: "Jonathan Worth's Introduction"
