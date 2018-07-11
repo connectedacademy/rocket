@@ -30,32 +30,32 @@
       type: "content"
       rich: true
       carousel:
-        '1':
-          image: 47.jpg
-          link:
-          caption:
         '2':
-          image: 32.jpg
+          image: media/rocket-coming-clean-1531315741527-media.jpg
           link:
           caption:
         '3':
-          image: 29.jpg
+          image: media/rocket-coming-clean-1531315748339-media.jpg
           link:
           caption:
         '4':
-          image: 18.jpg
+          image: media/rocket-coming-clean-1531315772399-media.jpg
           link:
           caption:
         '5':
-          image: 30.jpg
+          image: media/rocket-coming-clean-1531315778969-media.jpg
           link:
           caption:
         '6':
-          image: 31.jpg
+          image: media/rocket-coming-clean-1531315785494-media.jpg
           link:
           caption:
         '7':
-          image: 33.jpg
+          image: media/rocket-coming-clean-1531315787838-media.jpg
+          link:
+          caption:
+        '8':
+          image: media/rocket-coming-clean-1531315790039-media.jpg
           link:
           caption:
           
