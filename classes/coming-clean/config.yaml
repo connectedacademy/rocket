@@ -20,6 +20,9 @@
         - 
           title: "Jonathan Worth's Introduction"
           audio: "https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-coming-clean-1530824783745-intro-64.mp3"
+        - 
+          audio: "https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-coming-clean-1533153671915-intro-64.mp3"
+          title: "Introduction"
       audio: 
         - "https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-coming-clean-main-64.mp3"
         - "https://s3-us-west-2.amazonaws.com/ca-us-west-2/encoded/rocket-coming-clean-main-64.webm"
@@ -29,36 +32,35 @@
       slug: "reading"
       type: "content"
       rich: true
-      carousel:
-        '2':
-          image: media/rocket-coming-clean-1531315741527-media.jpg
-          link:
-          caption:
-        '3':
-          image: media/rocket-coming-clean-1531315748339-media.jpg
-          link:
-          caption:
-        '4':
-          image: media/rocket-coming-clean-1531315772399-media.jpg
-          link:
-          caption:
-        '5':
-          image: media/rocket-coming-clean-1531315778969-media.jpg
-          link:
-          caption:
-        '6':
-          image: media/rocket-coming-clean-1531315785494-media.jpg
-          link:
-          caption:
-        '7':
-          image: media/rocket-coming-clean-1531315787838-media.jpg
-          link:
-          caption:
-        '8':
-          image: media/rocket-coming-clean-1531315790039-media.jpg
-          link:
-          caption:
-          
+      carousel: 
+        2: 
+          image: "media/rocket-coming-clean-1531315741527-media.jpg"
+          link: null
+          caption: null
+        3: 
+          image: "media/rocket-coming-clean-1531315748339-media.jpg"
+          link: null
+          caption: null
+        4: 
+          image: "media/rocket-coming-clean-1531315772399-media.jpg"
+          link: null
+          caption: null
+        5: 
+          image: "media/rocket-coming-clean-1531315778969-media.jpg"
+          link: null
+          caption: null
+        6: 
+          image: "media/rocket-coming-clean-1531315785494-media.jpg"
+          link: null
+          caption: null
+        7: 
+          image: "media/rocket-coming-clean-1531315787838-media.jpg"
+          link: null
+          caption: null
+        8: 
+          image: "media/rocket-coming-clean-1531315790039-media.jpg"
+          link: null
+          caption: null
     - 
       title: "Extended Content"
       description: "Access Graham and Susan’s original full-length interviews and extra related content."
