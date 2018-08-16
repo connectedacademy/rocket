@@ -1,33 +1,32 @@
-title: Depictions of Addiction
-slug: rocket
-hashtag: "#connectedacademy"
-engine: local # local, twitter etc.
-# image:
-# imagecredit:
-video: Gm6UWOO_SMU
-admins: 
-  - edjenkins91
-  - jonathan_worth
-teachers:
-  - edjenkins91
-  - jonathan_worth
-pages:
-  welcome: welcome
-  about: about
-  info: info
-classes:
-  -
-    title: Coming Clean
-    description: 'Photographer: Graham Macindoe, Subject: Graham Macindoe, Audience: Susan Stellin, Expert context: Susan Stellin'
-    slug: coming-clean
-    date: 05-12-2018
-  -
-    title: Kensington Blues
-    description: 'Photographer: Jeffrey Stockbridge, Subject: Krista, Audience: Gemma-Rose Turnbull, Expert context: Susan Stellin'
-    slug: kensington-blues
-    date: 05-17-2019
-  -
-    title: Miss Wish
-    description: 'An Autobiography of Miss Wish - Photographer: Nina Berman, Subject: Kimberly Wish, Audience: Stephen Mayes, Expert context: Dr Carl Hart'
-    slug: miss-wish
-    date: 05-22-2019
+---
+  title: "Depictions of Addiction"
+  slug: "rocket"
+  hashtag: "#connectedacademy"
+  engine: "local"
+  video: "Gm6UWOO_SMU"
+  admins: 
+    - "edjenkins91"
+    - "jonathan_worth"
+  teachers: 
+    - "edjenkins91"
+    - "jonathan_worth"
+  pages: 
+    welcome: "welcome"
+    about: "about"
+    info: "info"
+  classes: 
+    - 
+      title: "Coming Clean"
+      description: "Photographer: Graham Macindoe, Subject: Graham Macindoe, Audience: Susan Stellin, Expert context: Susan Stellin"
+      slug: "coming-clean"
+      date: "05-17-2018"
+    - 
+      title: "Kensington Blues"
+      description: "Photographer: Jeffrey Stockbridge, Subject: Krista, Audience: Gemma-Rose Turnbull, Expert context: Susan Stellin"
+      slug: "kensington-blues"
+      date: "05-17-2019"
+    - 
+      title: "Miss Wish"
+      description: "An Autobiography of Miss Wish - Photographer: Nina Berman, Subject: Kimberly Wish, Audience: Stephen Mayes, Expert context: Dr Carl Hart"
+      slug: "miss-wish"
+      date: "05-22-2019"
